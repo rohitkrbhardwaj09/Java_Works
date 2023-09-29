@@ -1,0 +1,21 @@
+Develop the following program using notepad,
+
+Create a Java program with a main method and save it as “FirstProgram.java”
+in the “JavaWorks” Folder.
+
+The Java program needs to print the following message (in brown & green
+color font) in the specified format in the console.
+
+******** This is My First Java Program ********
+
+********This is a demo on print ************
+
+NOTE: The green and brown color text should printed using separate print
+statements.
+
+Hint: Use print statement to display green and brown text messages in the
+same line. Use println for introducing a line break.
+
+Open a new command window and execute the program.
+
+Compile the program.
