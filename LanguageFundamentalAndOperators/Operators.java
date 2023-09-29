@@ -1,5 +1,3 @@
-package LanguageFundamentalAndOperators;
-
 class Calculator{
     int num1, num2;
 

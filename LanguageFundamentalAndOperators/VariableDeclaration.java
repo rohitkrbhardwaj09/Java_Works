@@ -1,5 +1,3 @@
-package LanguageFundamentalAndOperators;
-
 class Employee{
     long empID = 345L;
     double empSalary = 10000.0;
