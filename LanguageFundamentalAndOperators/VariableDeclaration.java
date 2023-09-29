@@ -6,7 +6,7 @@ class Employee{
     float empTax = 9.5f;
     int empDaysOfWork = 24;
 
-    public static void calculatePF(){
+    public void calculatePF(){
     float pfRate = 10.5f;
     System.out.println("The PF Rate of The Employee is "+pfRate);
 }

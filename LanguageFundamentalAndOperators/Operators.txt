@@ -1,0 +1,19 @@
+1. Create a java class  “Calculator” with two instance variable int num1 and  num2.
+
+2. Create three methods “addition“,“subtraction” and ”printSmaller”  which will  add ,subtract  and print the smallest of two numbers respectively. The methods should display the results as follows,
+    
+    #Addition:“The Sum of  the Two numbers  <num1> and <num2> is  <result>”
+    
+    #Subtraction:“The Subtracted  Result of  the two numbers <num1>  and <num2> is  <result>”
+    
+    #Print Smaller:“The Smallest  of  the Two numbers  <num1> and <num2> is  <result>”
+    
+    --> Create a java class “MainProgram” add a main method which will 
+        
+        - Create a object instance of the Calculator . 
+        
+        - Set the value of num1 and num 2 as  12 and 8.
+        
+        - Invoke the methods “addition”,“subtraction” and “printSmaller “.
+        
+    The message needs to be displayed in the console.
