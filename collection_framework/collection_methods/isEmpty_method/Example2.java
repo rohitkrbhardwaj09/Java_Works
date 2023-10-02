@@ -1,13 +1,11 @@
-package collection_framework.collection_methods.clear_method;
+package collection_framework.collection_methods.isEmpty_method;
 
 import java.util.ArrayDeque;
 import java.util.Collection;
 
-class Example2{
-
+public class Example2 {
     public static void main(String[] args) {
-        
-        //Creating an empty ArrayDeque
+         //Creating an empty ArrayDeque
         Collection<String> de_que = new ArrayDeque<>();
 
         //Use add() method to add elements into the deque
