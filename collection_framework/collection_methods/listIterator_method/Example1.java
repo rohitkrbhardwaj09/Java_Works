@@ -26,7 +26,7 @@ public class Example1 {
         //print and display all elements inside object
         System.out.println(arr_list);
 
-        ListIterator itr = arr_list.listIterator();
+        ListIterator<Integer> itr = arr_list.listIterator();
 
         //checking the next element availability
         while(itr.hasNext()){

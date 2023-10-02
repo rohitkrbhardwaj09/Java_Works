@@ -1,0 +1,16 @@
+1. Create a Class “Calculator” with two integer variables “operand 1” & “operand 2”.
+
+2. Create a method “displayOperand” and add the logic of displaying the
+variable values in the below format,
+
+    “The value of operand 1 is <operand 1 Value>”
+
+    “The value of operand 2 is <operand 2 Value>”
+
+3. Create a main class “ClassEx2” implement the following logic
+
+    Set the value of “operand 1” as 89 and “operand 2” as 34.
+
+    Invoke the method displayoperand.
+
+4. The message should be displayed as mentioned in point # 2.
