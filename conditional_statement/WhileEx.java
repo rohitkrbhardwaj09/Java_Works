@@ -1,4 +1,4 @@
-package ConditionalStatement;
+package conditional_statement;
 class WelcomeMsg{
 
     public void printMessage(){

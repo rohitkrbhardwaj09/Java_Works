@@ -1,4 +1,4 @@
-package ProblemStatement;
+package problem_statement;
 
 public class FirstProgram{
     public static void main(String[] args) {

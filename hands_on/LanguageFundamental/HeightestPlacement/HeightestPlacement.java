@@ -1,4 +1,4 @@
-package HandsOn.LanguageFundamental.HeightestPlacement;
+package hands_on.LanguageFundamental.HeightestPlacement;
 
 import java.util.Scanner;
 

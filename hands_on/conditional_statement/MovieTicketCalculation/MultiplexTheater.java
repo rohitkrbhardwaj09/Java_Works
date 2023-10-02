@@ -1,4 +1,4 @@
-package HandsOn.ConditionalStatement;
+package hands_on.conditional_statement.MovieTicketCalculation;
 
 import java.util.Scanner;
 

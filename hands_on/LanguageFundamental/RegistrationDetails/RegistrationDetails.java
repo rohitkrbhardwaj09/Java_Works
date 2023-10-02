@@ -1,4 +1,4 @@
-package HandsOn.LanguageFundamental.RegistrationDetails;
+package hands_on.LanguageFundamental.RegistrationDetails;
 
 import java.util.Scanner;
 
