@@ -1,7 +1,6 @@
-package java_io.FileInputStream;
+package java_io.file_input_stream;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 
 public class Example1 {

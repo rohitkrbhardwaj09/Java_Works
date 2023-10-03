@@ -29,8 +29,6 @@ public class Example3 {
             // using listIterator() method
             System.out.println("Trying to getListIterator"
                     + " from index 7\n");
-
-            ListIterator<String> iterator = arrlist.listIterator(7);
         }
 
         catch (IndexOutOfBoundsException e) {
